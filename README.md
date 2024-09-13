@@ -26,15 +26,15 @@ This plugin adds a web interface for each SB2/3, Transporter, or SB Touch connec
 
 ## Version History
 
-| Date       | Version | LMS Version  | Firmware         | Download/Install                                    |
-|------------|---------|--------------|------------------|----------------------------------------------------|
-| 02/21/2012 | 6.2.1   | >= 7.6.x     | SB: >=29, Transporter: all, SB Touch: all | Installable via plugin downloader in Logitech Media Server |
-| 03/08/2010 | 5.6.1   | >= 7.4.x     | SB: >= 29, Transporter: all | Installable via plugin downloader in Squeezebox Server |
-|            | 5.5     | 7.x          | SB: >= 29, Transporter: all | Same as 5.4, but installable via plugin downloader in Squeezebox Server |
-| 07/26/2008 | 5.4     | 7.x          | SB: >= 29, Transporter: all | [Click to download](#)                             |
-| 05/31/2007 | 4.1.3   | 6.5.x        | SB: >= 29, Transporter: all | [Plugins/IRBlaster.zip](#)                         |
-| 08/09/2006 | 3.7     | 6.2.x, 6.3.x | >= 29            | [Plugins/IRBlaster.zip](#)                         |
-| 10/11/2005 | 2.6     | 6.2          | >= 23            | [Plugins/IRBlaster.zip](#)                         |
+| Date       | Version | LMS Version  | Firmware         |
+|------------|---------|--------------|------------------|
+| 02/21/2012 | 6.2.1   | >= 7.6.x     | SB: >=29, Transporter: all, SB Touch: all |
+| 03/08/2010 | 5.6.1   | >= 7.4.x     | SB: >= 29, Transporter: all |
+|            | 5.5     | 7.x          | SB: >= 29, Transporter: all | 
+| 07/26/2008 | 5.4     | 7.x          | SB: >= 29, Transporter: all |
+| 05/31/2007 | 4.1.3   | 6.5.x        | SB: >= 29, Transporter: all |
+| 08/09/2006 | 3.7     | 6.2.x, 6.3.x | >= 29            |
+| 10/11/2005 | 2.6     | 6.2          | >= 23            |
 
 ## Additional Information
 
