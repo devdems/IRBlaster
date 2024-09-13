@@ -38,6 +38,4 @@ This plugin adds a web interface for each SB2/3, Transporter, or SB Touch connec
 
 ## Additional Information
 
-For more details and technical background, visit the [Slim Devices Wiki](#).
-
 Please post suggestions and issues on the [Slim Devices forum](http://forums.slimdevices.com).
