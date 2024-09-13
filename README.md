@@ -24,18 +24,6 @@ This plugin adds a web interface for each SB2/3, Transporter, or SB Touch connec
 - **LMS Skins**: Non-default skins might show an empty IR Blaster settings page.
   - **Possible Fix**: To make it work with the Classic skin, try copying all IR Blaster HTML pages from the Default folder into a new Classic folder.
 
-## Version History
-
-| Date       | Version | LMS Version  | Firmware         |
-|------------|---------|--------------|------------------|
-| 02/21/2012 | 6.2.1   | >= 7.6.x     | SB: >=29, Transporter: all, SB Touch: all |
-| 03/08/2010 | 5.6.1   | >= 7.4.x     | SB: >= 29, Transporter: all |
-|            | 5.5     | 7.x          | SB: >= 29, Transporter: all | 
-| 07/26/2008 | 5.4     | 7.x          | SB: >= 29, Transporter: all |
-| 05/31/2007 | 4.1.3   | 6.5.x        | SB: >= 29, Transporter: all |
-| 08/09/2006 | 3.7     | 6.2.x, 6.3.x | >= 29            |
-| 10/11/2005 | 2.6     | 6.2          | >= 23            |
-
 ## Additional Information
 
 Please post suggestions and issues on the [Slim Devices forum](http://forums.slimdevices.com).
